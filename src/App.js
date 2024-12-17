@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {  useState } from "react";
 import explorer from "./explorer";
 import fileIcon from './images/fileIcon.png';
 import folderIcon from './images/folderIcon.jpg';
